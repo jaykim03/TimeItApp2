@@ -1,0 +1,6 @@
+C:\Users\JAIMARJOHN\AndroidStudioProjects\TimeItApp\app\build\intermediates\classes\debug
+C:\Users\JAIMARJOHN\AndroidStudioProjects\TimeItApp\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-e1ac557713b2d846533c6ce11a412b0f04abcd30.jar
+C:\Users\JAIMARJOHN\AndroidStudioProjects\TimeItApp\app\build\intermediates\pre-dexed\debug\classes-166698937ca60a86619c24910ddd8978f9b2b6a7.jar
+C:\Users\JAIMARJOHN\AndroidStudioProjects\TimeItApp\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-3c0deb619e064bc0e957904fb43363b12961b53f.jar
+C:\Users\JAIMARJOHN\AndroidStudioProjects\TimeItApp\app\build\intermediates\pre-dexed\debug\classes-8b8eec517c6c7694031843bf458b8a93513c00a3.jar
+C:\Users\JAIMARJOHN\AndroidStudioProjects\TimeItApp\app\build\intermediates\pre-dexed\debug\classes-cb6a4899ef914806a2e7286fa35da84afbffadc5.jar

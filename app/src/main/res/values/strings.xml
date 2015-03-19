@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeIt</string>
+    <string name="add_act">Add</string>
+    <string name="action_today">GoTo today</string>
+    <string name="action_day_view">Day view</string>
+    <string name="action_three_day_view">3 day view</string>
+    <string name="action_week_view">Week view</string>
+    <string name="statistics">Statistics</string>
+    <string name="close">Close</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/stats_popup_element"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#444444"
+    android:padding="15sp"
+    android:weightSum="1">
+
+    <ListView
+        android:id="@+id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="433dp"
+        android:layout_weight="0.48" />
+
+    <Button
+        android:id="@+id/btn_stats_close"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Close"
+        android:layout_gravity="right" />
+</LinearLayout><!-- From: file:/C:/Users/JAIMARJOHN/AndroidStudioProjects/TimeItApp/app/src/main/res/layout/stats_popup_main.xml -->

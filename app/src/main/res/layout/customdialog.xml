@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/shour"
+        android:hint="Start Hour"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/ehour"
+        android:hint="End Hour"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/sminute"
+        android:hint="Start Minute"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/eminute"
+        android:hint="End Minute"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/day"
+        android:hint="Day"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/smonth"
+        android:hint="Month"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/syear"
+        android:hint="Year"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/actname"
+        android:hint="Activity Name"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:layout_width="206dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/color"
+        android:hint="Color"
+        android:layout_gravity="center_horizontal" />
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Add"
+            android:id="@+id/addbutton" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="cancel"
+            android:id="@+id/cancelbutton" />
+    </TableRow>
+
+
+</LinearLayout>
